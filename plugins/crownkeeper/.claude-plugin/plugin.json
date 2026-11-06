@@ -1,0 +1,6 @@
+{
+  "name": "crownkeeper",
+  "version": "0.1.0",
+  "description": "Loop engineering workflow: spec, build, verify, review, docs",
+  "author": { "name": "Oshawotttt" }
+}

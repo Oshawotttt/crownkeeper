@@ -1,6 +1,6 @@
 ---
 name: docs-updater
-description: Updates a repo's docs once at the end of a task, from the task's spec and the diff since the base commit, so the spec can be deleted without losing anything. Edits docs only, makes no commits, and returns a coverage table. Used by /loopeng-auto.
+description: Updates a repo's docs once at the end of a task, from the task's spec and the diff since the base commit, so the spec can be deleted without losing anything. Edits docs only, makes no commits, and returns a coverage table. Used by /crownkeeper:loopeng-auto.
 tools: Read, Edit, Write, Grep, Glob, Bash, PowerShell
 model: sonnet
 effort: medium

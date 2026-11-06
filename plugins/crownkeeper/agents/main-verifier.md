@@ -1,6 +1,6 @@
 ---
 name: main-verifier
-description: Skeptical reviewer that verifies one subtask of a task (or one code-review fix round), reading the spec itself. Spawned fresh for that, and continued with SendMessage only to re-verify the same subtask. Returns PASS or FAIL with the fixes required. Used by /loopeng-auto.
+description: Skeptical reviewer that verifies one subtask of a task (or one code-review fix round), reading the spec itself. Spawned fresh for that, and continued with SendMessage only to re-verify the same subtask. Returns PASS or FAIL with the fixes required. Used by /crownkeeper:loopeng-auto.
 tools: Read, Grep, Glob, Bash, PowerShell
 model: opus
 effort: medium

@@ -1,6 +1,6 @@
 ---
 name: generate-summary
-description: Builds or updates docs/summary.html, a visual, human-readable summary of a project. ARCHITECTURE.md is the backbone; the other docs (found through the CLAUDE.md docs map when there is one) are read for anything else a reader needs. Diagrams are drawn with diagram-design. Run only when the user invokes /generate-summary.
+description: Builds or updates docs/summary.html, a visual, human-readable summary of a project. ARCHITECTURE.md is the backbone; the other docs (found through the CLAUDE.md docs map when there is one) are read for anything else a reader needs. Diagrams are drawn with diagram-design. Run only when the user invokes /crownkeeper:generate-summary.
 argument-hint: "[repo path or sections to focus on, optional]"
 disable-model-invocation: true
 ---

@@ -1,0 +1,7 @@
+{
+  "name": "crownkeeper",
+  "owner": { "name": "Oshawotttt" },
+  "plugins": [
+    { "name": "crownkeeper", "source": "./plugins/crownkeeper", "description": "Loop engineering workflow" }
+  ]
+}
